@@ -16,4 +16,4 @@ var row = prompt ("Please enter number of rows needed");
 console.log(column*row);
 //console.log("Thank you! Your requested total is listed above");
 
-alert("Thank you, the total cells needed for your spreadsheet is"  + column*row);
+alert("Total cells needed for your spreadsheet is "  + column*row);
