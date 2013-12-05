@@ -13,7 +13,7 @@ var month = prompt ("How many months do you use lipgloss for the year?");
 
 console.log(month*lipgloss);
 
-alert ("Within the year you will use " + month*lipgloss + " Lipgloss");
+alert ("Thank you!!" + " Within the year you will use " + month*lipgloss + " Lipgloss.");
 
 //Calculating the amount of lipgloss used on a yearly basis.
 
