@@ -11,9 +11,12 @@ var column = prompt ("Please enter number of columns needed");
 var row = prompt ("Please enter number of rows needed");
 
 //Collecting information from user to create spreadsheet.
-//The information would calculate the total cells needed for spreadsheet.
+//The information would calculate the total cells needed
+//for spreadsheet.
 
 console.log(column*row);
 //console.log("Thank you! Your requested total is listed above");
 
-alert("Your spreadsheet will result in "  + column*row + " cells." + " If you wish to change this, please re-enter data.");
+alert("Your spreadsheet will result in "  + column*row + " cells." +
+      " If you wish to change this, please re-enter data.");
+
