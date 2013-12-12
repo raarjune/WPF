@@ -3,4 +3,11 @@
 //Planning a trip to Washington DC.
 //Based upon the price for flight if less than $495. will fly, if greater will travel by train.
 
+var flight = 0;
+var flight = prompt("What price did you find?");
+
+if (flight > 495) {
+    console.log("Train would be best option, and you could take as many luggage as you want.")
+    //code
+}
 
