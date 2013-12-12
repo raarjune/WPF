@@ -7,7 +7,10 @@ var flight = 0;
 var flight = prompt("What price did you find?");
 
 if (flight > 495) {
-    console.log("Train would be best option, and you could take as many luggage as you want.")
+    console.log("Train would be your best option, and you could take as many luggage as you want.")
     //code
+}else{
+    console.log("Flying would get you to DC in 2 hours. 1 bag check-in allowed");
 }
+
 
