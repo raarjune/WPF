@@ -12,5 +12,6 @@ if (flight > 495) {
 }else{
     console.log("Flying would get you to DC in 2 hours. 1 bag check-in allowed");
 }
+alert("Have a pleasant trip to Washington!");
 
 
