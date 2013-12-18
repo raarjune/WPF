@@ -12,11 +12,12 @@ function budget(){
     
     console.log(pettyCash * month + " Dollars is your Annual Budget.");
     //console.log(annualBudget);
-    
+    return("budget");
 }
 budget();
 
 alert("Friendly reminder from Corporate: Please do not exceed your Annual Budget!")
+
 
 
 
