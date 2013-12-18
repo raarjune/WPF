@@ -1,6 +1,6 @@
 //Rajmatie Arjune, December 15, 2013 - Functions_Industry
 
-//Preparing budget for everday expense.
+//Preparing budget for monthly expense multiply by 12 months.
 
 function budget(){
     var pettyCash = 250;
