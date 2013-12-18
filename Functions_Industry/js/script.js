@@ -7,7 +7,10 @@ function budget(){
     var month = 12;
 
     var annualBudget = pettyCash * month;
+    var username = prompt("Please enter your Company Name.")
+    var pettyCash = prompt("What's your monthly expense?");
     console.log(annualBudget);
+    
 }
 budget();
 
