@@ -1,6 +1,7 @@
 //Rajmatie Arjune, December 15, 2013 - Functions_Personal
 //Mr Smith wants you to Calculate what he gives his kids in allowance for the year.
 
+alert("This is a pop quiz on Mr.Smith!");
 
 function kidsAllowance(allowance,children){
     //answer = allowance*children;
@@ -18,13 +19,11 @@ function kidsAllowance(allowance,children){
 
 var userInput = prompt("How many children does Mr.Smith have?");
 var userResult = prompt("How much does he give each child in allowance?");
+confirm("Mr. smith gives his kids a total of $1200 per year in allowance!");
 
 console.log(funds * year);
-
-//confirm("You saved + total");
     return("kidsAllowance");
 }
 
 kidsAllowance();
 
-alert("Mr. smith gives his kids a total of $1200 per year in allowance!");
