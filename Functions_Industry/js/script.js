@@ -3,7 +3,7 @@
 //Preparing budget for monthly expense multiply by 12 months.
 
 function budget(){
-    var pettyCash = 250;
+    var pettyCash = 0;
     var month = 12;
 
     var annualBudget = pettyCash * month;
