@@ -20,8 +20,7 @@
 ////confirm("Hope you feel better soon!")
 //coldRemedy();
 
-
-
+//----------------------------------------------------------------------------
 //Calculating price tag from December 1st to December 31st Christmas Gifts if purchase everyday, or some days.
 
 function christmasGift(){
