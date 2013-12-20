@@ -10,7 +10,7 @@ function budget(){
     var username = prompt("Please enter your Company Name.")
     var pettyCash = prompt("What's your monthly expense?");
     
-    console.log(pettyCash * month + " Dollars would be allotted to your office.");
+    console.log(pettyCash * month + " Dollars in the form of a check would be mailed to your office.");
     //console.log(annualBudget);
     return("budget");
 }
