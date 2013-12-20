@@ -26,7 +26,7 @@
 function christmasGift(){
     var gift = 0;
     var day = 0;
-    var userPrice = prompt("How much are you planning to spend per gift?");
+    var userPrice = prompt("How much money are you planning to spend per gifts?");
     var userInfo = prompt("How many days will you buy presents?")
 
     console.log(userPrice * userInfo + " Dollars is your price tag for the month.");
@@ -43,4 +43,5 @@ christmasGift--;
 }
 
 confirm("Your gift recipient would be very HAPPY!")
+
 
